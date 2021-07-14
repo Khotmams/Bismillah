@@ -1,0 +1,4 @@
+@echo off
+TITLE Ali Superbot
+:: Enables virtual env mode and then starts ali
+env\scripts\activate.bat && py -m AliSuperbot
